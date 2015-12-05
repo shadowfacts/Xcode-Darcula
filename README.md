@@ -7,6 +7,11 @@ Xcode theme based on the Darcula theme for JetBrains IDEs. Based on the [version
 
 **Alternate fonts are not included.**
 
+## Installation
+1. Download/clone this repository.
+2. Copy the theme you want to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. (**Note:** Using symlinks does not work)
+3. Select the theme in the `Fonts & Colors` section of the Xcode preferences.
+
 
 [Hack]: https://github.com/chrissimpkins/Hack
 [Normal-Screenshot]: https://github.com/shadowfacts/Xcode-Darcula/blob/master/Screenshots/Darcula.png
