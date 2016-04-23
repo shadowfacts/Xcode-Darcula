@@ -9,7 +9,7 @@
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Hack - 13.0</string>
+	<string>Hack-Regular - 13.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.317071 0.437736 1 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
@@ -17,7 +17,7 @@
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Hack - 13.0</string>
+	<string>Hack-Regular - 13.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
@@ -35,35 +35,37 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.296326 0.296326 0.296326 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>Hack - 12.0</string>
+	<string>Hack-Regular - 12.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.768627 0.698039 0.63843 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.AppleSystemUIFontItalic - 12.0</string>
+	<string>.SFNSText-Italic - 12.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.768627 0.698039 0.63843 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.345098 0.619608 0.960784 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.AppleSystemUIFont - 12.0</string>
+	<string>.SFNSText-Regular - 12.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.768627 0.698039 0.63843 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.AppleSystemUIFont - 12.0</string>
+	<string>.SFNSText-Regular - 12.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.768627 0.698039 0.63843 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.AppleSystemUIFont - 16.8</string>
+	<string>.SFNSText-Regular - 16.8</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.768627 0.698039 0.63843 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 28.8</string>
+	<string>.SFNSDisplay-Regular - 28.8</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.768627 0.698039 0.63843 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.AppleSystemUIFont - 21.6</string>
+	<string>.SFNSDisplay-Regular - 21.6</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.768627 0.698039 0.63843 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.AppleSystemUIFontBold - 12.0</string>
+	<string>.SFNSText-Bold - 12.0</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.168627 0.168627 0.168627 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
@@ -73,7 +75,7 @@
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.654656 0.792518 0.999198 1</string>
+	<string>0 0.321947 0.999198 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -126,51 +128,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Hack - 13.0</string>
+		<string>Hack-Regular - 13.0</string>
 	</dict>
 </dict>
 </plist>
